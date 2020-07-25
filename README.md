@@ -1,6 +1,6 @@
 ### Nayalash Mohammad | Aspiring Software Engineer
 
-<img src="https://github.com/Nayalash/Nayalash/blob/master/bg.jpeg"></img>
+<img src="https://github.com/Nayalash/Nayalash/blob/master/bg.jpeg" style="height:100px;"></img>
 
 
 Personal Website: [https://nayalash.github.io](https://nayalash.github.io)
