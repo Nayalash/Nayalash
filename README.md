@@ -1,4 +1,4 @@
-### Nayalash Mohammad | Aspiring Software Engineer
+### Nayalash Mohammad | Software Engineer
 
 🚀🚀🚀
 
