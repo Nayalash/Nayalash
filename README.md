@@ -2,7 +2,7 @@
 
 ## 🚀🚀🚀
 
-Personal Website: [https://nayalash.github.io](https://nayalash.github.io)
+Personal Website: [https://nayalash.tech](https://nayalash.github.io)
 <br>
 Resume: [https://nayalash.github.io/resume/resume.pdf](https://nayalash.github.io/resume/resume.pdf)
 <br>
