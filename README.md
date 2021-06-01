@@ -9,6 +9,3 @@ Resume: [https://nayalash.github.io/resume/resume.pdf](https://nayalash.github.i
 Email: [1nayalashm@gmail.com](mailto:1nayalashm@gmail.com])
 <br>
 Linkedin: [/in/nayalash](https://linkedin.com/in/nayalash)
-
-
-[![Nayalash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayalash)]
