@@ -11,3 +11,4 @@ Email: [1nayalashm@gmail.com](mailto:1nayalashm@gmail.com])
 Linkedin: [/in/nayalash](https://linkedin.com/in/nayalash)
 
 
+[![Nayalash's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nayalash)]
