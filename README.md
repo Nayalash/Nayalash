@@ -1,11 +1,5 @@
-### Nayalash Mohammad | Software Engineer
+# Hey 👋
+# I'm Nayalash Mohammad, a 
+# Software Engineer who loves to learn new things.
 
-## 🚀🚀🚀
-
-Personal Website: [https://nayalash.tech](https://nayalash.github.io)
-<br>
-Resume: [https://nayalash.github.io/resume/resume.pdf](https://nayalash.github.io/resume/resume.pdf)
-<br>
-Email: [1nayalashm@gmail.com](mailto:1nayalashm@gmail.com])
-<br>
-Linkedin: [/in/nayalash](https://linkedin.com/in/nayalash)
+## Check out my site: [https://nayalash.tech)](https://nayalash.tech)
